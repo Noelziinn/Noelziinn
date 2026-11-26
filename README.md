@@ -7,7 +7,7 @@
 <div align="center">
   <h1>E aí 👋, eu sou o Noel</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://media.discordapp.net/attachments/890589448490844160/1575341408452091996/1795660986391.jpg?ex=6b08ee84&is=6b079d04&hm=e12224013b233a77de2e74a1b22e0839d3ffcac1cdea755b046b7d3e6eb731d5&format=webp" alt="Typing SVG" />
+    <img src="[https://media.discordapp.net/attachments/890589448490844160/1575341408452091996/1795660986391.jpg?ex=6b08ee84&is=6b079d04&hm=e12224013b233a77de2e74a1b22e0839d3ffcac1cdea755b046b7d3e6eb731d5&format=webp" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F3FF&center=true&vCenter=true&width=550&lines=Focado+em+Desenvolvimento+Frontend;Criando+Bots+Modulares+para+Discord;Desenvolvendo+o+LinkB+(linkb.bio);Sempre+construindo+algo+novo+na+pr%C3%A1tica)" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
     </td>
     <td width="38%" align="center" valign="middle">
       <!-- Você pode trocar este link por qualquer GIF ou arte sua depois -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+      <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.discordapp.net/attachments/890589448490844160/1575341408452091996/1795660986391.jpg?ex=6b08ee84&is=6b079d04&hm=e12224013b233a77de2e74a1b22e0839d3ffcac1cdea755b046b7d3e6eb731d5&format=webp)" width="260" alt="Coding GIF" />
     </td>
   </tr>
 </table>
