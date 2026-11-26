@@ -1,6 +1,6 @@
 <!-- BANNER DO TOPO (Neon Azul Claro) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:003B4D,100:00F3FF&height=210&section=header&text=NoelZiinn&fontSize=65&fontColor=00F3FF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Bots%20Discord%20%7C%20Criador%20do%20LinkB&descAlignY=60&descSize=18" alt="Banner NoelZiinn" />
+  <img width="100%" src="https://cdn.discordapp.com/attachments/890589448490844160/1575341387480703037/1795660989958.jpg?ex=6b08ee7f&is=6b079cff&hm=14de660b9261a041766040012b0f1bfbaa8cc1122b1e42ce9602e92d4d901990&" alt="Banner NoelZiinn" />
 </div>
 
 <!-- SAUDAÇÃO & EFEITO DE DIGITAÇÃO -->
